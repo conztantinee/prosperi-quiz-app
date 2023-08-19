@@ -1,0 +1,22 @@
+{
+  "name": "quiz_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "node-uuid": "^1.4.8",
+    "nodemon": "^2.0.21",
+    "recurly": "^4.30.0",
+    "stripe": "^11.15.0"
+  }
+}

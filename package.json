@@ -1,0 +1,20 @@
+{
+  "name": "quiz_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cd quiz_back && npm i &&  npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeomobi/quiz_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeomobi/quiz_app/issues"
+  },
+  "homepage": "https://github.com/jeomobi/quiz_app#readme",
+  "devDependencies": {}
+}
